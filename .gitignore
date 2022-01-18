@@ -1,0 +1,20 @@
+# Writable directory logs/cache
+writable/cache/*
+writable/codeigniter/*
+writable/debugbar/*
+writable/logs/*
+writable/session/*
+!writable/**/index.html
+!writable/**/.gitkeep
+
+# Local env files
+.env
+.env.local
+
+# Dependency directories
+vendor/
+
+# IDE/OS files
+.idea/
+.vscode/
+.DS_Store
