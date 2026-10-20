@@ -1,10 +1,10 @@
 # Make It Short
 
-> Team project. This repository holds the team's code; the section below describes my part.
+> Team project. This repository holds the team's code; the section below lists the individual contribution.
 
 A CodeIgniter 4 link shortener with click analytics and redeemable points, built by a team (May – Aug 2021).
 
-## My part
+## Individual contribution
 
 - The link-shortening engine and analytics tracking integrated into the CodeIgniter 4 app.
 - MySQL key-value lookup indexes for fast short-link redirects.
